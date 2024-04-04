@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: webserverdemonstration
+    env: docker
+    plan: free
